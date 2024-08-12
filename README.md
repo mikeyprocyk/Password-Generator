@@ -1,6 +1,4 @@
-###########################
-#Created by Michael Procyk#
-###########################
+Created by Michael Procyk
 
 This password generator will generate a unique password for you given that it needs to have at least one:
 - lower case letter
