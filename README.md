@@ -1,5 +1,7 @@
 Created by Michael Procyk
 
+![](https://github.com/mikeyprocyk/Password-Generator/blob/main/ignore/PasswordGeneratorGif.gif)
+
 This password generator will generate a unique password for you given that it needs to have at least one:
 - lower case letter
 - upper case letter
